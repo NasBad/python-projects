@@ -1,6 +1,5 @@
 """
     Student Name: Naseem Badran
-    Student ID: 322726662
 
     This is a python code for MMN12
 """
